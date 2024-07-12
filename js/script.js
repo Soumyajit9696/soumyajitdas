@@ -11,7 +11,7 @@ window.addEventListener('load', function(){
 // iTyped 
 
 window.ityped.init(document.querySelector('.iTyped'), {
-    strings: ["I'm a Physics Undergrad", 'I Love Computers', 'I Love Python', 'I Love Linux', 'I Love High energy Physics'],
+    strings: ["I'm a Physics Undergraduate", 'I Love Computers', 'I Love Python', 'I Love Linux', 'I Love High energy Physics'],
     loop: true
 });
 
